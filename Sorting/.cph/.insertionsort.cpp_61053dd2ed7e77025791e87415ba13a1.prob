@@ -1,0 +1,1 @@
+{"name":"Local: insertionsort","url":"/home/amit/Desktop/dsa/Sorting/insertionsort.cpp","tests":[{"id":1704478892721,"input":"5\n1 2 5 4 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amit/Desktop/dsa/Sorting/insertionsort.cpp","group":"local","local":true}

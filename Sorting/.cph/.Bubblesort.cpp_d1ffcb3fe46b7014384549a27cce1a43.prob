@@ -1,0 +1,1 @@
+{"name":"Local: Bubblesort","url":"/home/amit/Desktop/dsa/Sorting/Bubblesort.cpp","tests":[{"id":1704478066481,"input":"5\n5 4 3 2 1","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amit/Desktop/dsa/Sorting/Bubblesort.cpp","group":"local","local":true}

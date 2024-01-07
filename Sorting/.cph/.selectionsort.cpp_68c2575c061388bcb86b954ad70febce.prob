@@ -1,0 +1,1 @@
+{"name":"Local: selectionsort","url":"/home/amit/Desktop/dsa/Sorting/selectionsort.cpp","tests":[{"id":1704477122094,"input":"5\n10 54 12 23 56","output":"10 12 23 54 56"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amit/Desktop/dsa/Sorting/selectionsort.cpp","group":"local","local":true}
